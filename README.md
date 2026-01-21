@@ -13,4 +13,8 @@
 - 💬 Ask me about Python
 - 📫 How to reach me: smitha.arul16@gmail.com...
 - 💡 Interested in Web Developing and Programming
+
+## 🔗 Connect with Me
+- LinkedIn:https://www.linkedin.com/in/maria-smitha-a63213281
+- Instagram: _maria_smitha__
 -->
