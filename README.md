@@ -1,6 +1,6 @@
 ## Hi👋, I'm Maria Smitha
 
-<!--
+##<!--
  🛠 Skills
 - **Programming:** Python, Java, C  
 - **Web:** HTML, CSS, JavaScript, ReactJS  
