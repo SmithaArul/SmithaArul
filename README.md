@@ -1,6 +1,6 @@
-## Hi👋, I'm Maria Smitha
+Hi👋, I'm Maria Smitha
 
-##<!--
+
  🛠 Skills
 - **Programming:** Python, Java, C  
 - **Web:** HTML, CSS, JavaScript, ReactJS  
@@ -14,7 +14,7 @@
 - 📫 How to reach me: smitha.arul16@gmail.com...
 - 💡 Interested in Web Developing and Programming
 
-## 🔗 Connect with Me
+ 🔗 Connect with Me
 - LinkedIn:https://www.linkedin.com/in/maria-smitha-a63213281
 - Instagram: _maria_smitha__
--->
+
